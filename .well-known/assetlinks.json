@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { 
-    "namespace": "android_app", 
-    "package_name": "com.clt.quinto_poder",
-    "sha256_cert_fingerprints": 
-    ["CA:9E:E5:49:45:24:02:59:96:BC:B6:25:20:9F:8B:D9:00:18:EA:DA:AA:0F:43:92:EC:8C:C5:BB:27:17:A8:EF"]
-  }
-}]
